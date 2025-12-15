@@ -67,6 +67,7 @@ The tracker automatically adjusts the position of solar panels to follow the sun
 ![MPPT](https://github.com/666060/dual-axis-solar-tracker-mppt/blob/main/MPPT.jpeg)
 ![MPPT_OSCILLOSCOPE](https://github.com/666060/dual-axis-solar-tracker-mppt/blob/main/OSCILLOSCOPE.jpeg)
 
+
 ## Usage
 1. Upload the Arduino code to your Arduino UNO.
 2. Ensure all sensors and servos are connected properly.
