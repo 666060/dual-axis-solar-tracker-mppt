@@ -63,6 +63,7 @@ The tracker automatically adjusts the position of solar panels to follow the sun
 
 ---
 ## Project Images
+![Solar Tracker2](https://github.com/666060/dual-axis-solar-tracker-mppt/blob/main/SOLAR%20TRACKER2.jpeg)
 ![Solar Tracker](https://github.com/666060/dual-axis-solar-tracker-mppt/blob/main/solar%20tracker.jpeg)
 ![MPPT](https://github.com/666060/dual-axis-solar-tracker-mppt/blob/main/MPPT.jpeg)
 ![MPPT_OSCILLOSCOPE](https://github.com/666060/dual-axis-solar-tracker-mppt/blob/main/OSCILLOSCOPE.jpeg)
