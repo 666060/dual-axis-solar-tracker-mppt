@@ -85,6 +85,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - [Hoda Mahmoud Shalaby](https://www.linkedin.com/in/hoda-mahmoud-b3327736b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Fatma Nagah Abdel Azim](https://www.linkedin.com/in/fatma-nagah-b437a236b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Fatma Emad Eldin](https://www.linkedin.com/in/fatma-emad228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-- [Nasreen Ashraf Al-Omari](https://www.linkedin.com/in/nesreen-elemairy-a9078635a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [Nasreen Ashraf EL-Emairy](https://www.linkedin.com/in/nesreen-elemairy-a9078635a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 
