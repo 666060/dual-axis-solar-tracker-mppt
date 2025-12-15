@@ -62,6 +62,10 @@ The tracker automatically adjusts the position of solar panels to follow the sun
    - Prints voltage, current, power, and PWM duty cycle to Serial Monitor.
 
 ---
+## Project Images
+![Solar Tracker](images/solar_tracker.jpg)
+![MPPT](images/circuit_diagram.png)
+![MPPT_OSCILLOSCOPE](images/circuit_diagram.png)
 
 ## Usage
 1. Upload the Arduino code to your Arduino UNO.
